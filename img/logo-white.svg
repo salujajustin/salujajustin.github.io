@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="412" height="250" version="1.1" viewBox="0 0 162.72 98.425" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(37.128 -73.865)">
+  <rect x="3.3073" y="95.255" width="79.375" height="66.146" fill="none" style="paint-order:stroke fill markers"/>
+  <path transform="matrix(.26458 0 0 .26458 -37.128 73.865)" d="m75 0v317h-75v55h245v-55h-95v-262h195v-55zm295 0v55h95v262h-195v55h270v-317h75v-55h-75zm-200 75v147h175v-26h-100v-66h200v-55zm100 75v26h100v66h-200v55h275v-147z" stroke-width="0" style="paint-order:stroke fill markers"/>
+  <path transform="matrix(.26458 0 0 .26458 -37.128 73.865)" d="m75 0v317h-75v55h245v-55h-95v-262h195v-55zm295 0v55h95v262h-195v55h270v-317h75v-55h-75zm-200 75v147h175v-26h-100v-66h200v-55zm100 75v26h100v66h-200v55h275v-147z" fill="#fff" stroke-width="0" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
